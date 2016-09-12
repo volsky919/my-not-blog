@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'TIME_ZONE/Amsterdam'
+TIME_ZONE = 'Europe/Kiev'
 
 USE_I18N = True
 
